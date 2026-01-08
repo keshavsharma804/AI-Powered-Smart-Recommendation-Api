@@ -1,5 +1,3 @@
-# app/rate_limit.py
-
 import time
 from .redis_client import redis_client
 
